@@ -1,4 +1,4 @@
-package io.github.dafanasiev.connectionstring;
+package com.github.dafanasiev.connectionstring;
 
 import org.junit.jupiter.api.Test;
 

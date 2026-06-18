@@ -1,4 +1,4 @@
-package io.github.dafanasiev.connectionstring;
+package com.github.dafanasiev.connectionstring;
 
 import java.util.LinkedHashMap;
 import java.util.Map;
